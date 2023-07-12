@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>515101322324-j886o89659sgp83vvpa1ltn3grn8rlqj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.515101322324-j886o89659sgp83vvpa1ltn3grn8rlqj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKQW64e3MWEFTeCaQiaVgbQcAVQs5j7r0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>515101322324</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.smartCart</string>
+	<key>PROJECT_ID</key>
+	<string>smartcart-d1c11</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smartcart-d1c11.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:515101322324:ios:bb5d878f63967bb32391c1</string>
+</dict>
+</plist>
